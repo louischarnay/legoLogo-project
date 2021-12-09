@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> C++ application developed for basic geometry learning
+> C++ application developed for basic geometry learning.
 
 ## Author
 
