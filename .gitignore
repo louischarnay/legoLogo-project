@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+#packages directory
+*packages/
+
+#idea directory
+.vs/
+.vscode/
+
+#idea files
+*.sln
+*.user
+*.vcxproj
+*.filters
+*.config
+
+#debug directory
+Debug/
